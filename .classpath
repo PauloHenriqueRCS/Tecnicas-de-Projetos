@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Gulosos"/>
+	<classpathentry kind="src" path="Dinamica"/>
+	<classpathentry kind="src" path="Backtracking"/>
+	<classpathentry kind="src" path="BestSequence"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
